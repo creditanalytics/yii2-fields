@@ -14,7 +14,7 @@
     "authors": [
         {
             "name": "Dmitriy Bushin",
-            "email": "dima.bushin@cpanalytics.org",
+            "email": "dima.bushin@cpanalytics.org"
         }
     ],
     "minimum-stability": "dev",
