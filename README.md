@@ -1,4 +1,4 @@
-yii2-validators
+yii2-fields
 ========================
 
-Standalone Validators (INN) for yii2
+All field stuff: structure, standalone validators, widgets, views for yii2

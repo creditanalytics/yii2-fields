@@ -3,7 +3,7 @@
 //  in rules()   [['inn'], 'app\components\validators\validateInn'],
 // for test purpose use fake INN number 1234567894 or 123456789110
 
-namespace creditanalytics\validators;
+namespace creditanalytics\fields\validators;
 
 use Yii;
 use yii\validators\Validator;
