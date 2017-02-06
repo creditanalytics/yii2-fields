@@ -16,6 +16,7 @@
             "email": "dima.bushin@cpanalytics.org",
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*"
     },
